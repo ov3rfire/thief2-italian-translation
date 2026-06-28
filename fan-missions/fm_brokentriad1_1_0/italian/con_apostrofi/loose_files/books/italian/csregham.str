@@ -1,0 +1,34 @@
+Page_0:
+"Sei di nuovo tu, amico!"
+page_0_color: "#DDBAAB"
+page_0_time: "4s"
+
+Page_1:
+"Dimmi, che luogo e' questo?"
+page_1_color: "#DDBAAB"
+page_1_time: "5s"
+
+Page_2:
+"Oh! Oh! Per il Builder! Il nostro simbolo piu' sacro!"
+page_2_color: "#DDBAAB"
+page_2_time: "8s"
+
+Page_3:
+"Questo martello e' maledetto da spiriti immondi!"
+page_3_color: "#DDBAAB"
+page_3_time: "6s"
+
+Page_4:
+"Devo andare a benedirlo subito!"
+page_4_color: "#DDBAAB"
+page_4_time: "4s"
+
+Page_5:
+"  "
+page_5_color: "#DDBAAB"
+page_5_time: "1s"
+
+Page_6:
+"E' fatto!"
+page_6_color: "#DDBAAB"
+page_6_time: "4s"

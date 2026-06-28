@@ -1,0 +1,11 @@
+load: "Carica"
+done: "Fatto"
+
+unused: "< VUOTO >"
+
+initial: "Seleziona un file da caricare."
+loading: "Caricamento..."
+failed: "Caricamento fallito" 
+
+
+

@@ -1,0 +1,14 @@
+save: "Salva"
+done: "Fatto"
+
+unused: "< VUOTO >"
+
+initial: "Seleziona un file da salvare."
+saving: "Salvataggio..."
+
+success: "Salvataggio riuscito"
+failure: "Salvataggio fallito"
+
+quick_save: "(Salvataggio Rapido)"
+
+no_disk_space: "Spazio su Disco Insufficiente"

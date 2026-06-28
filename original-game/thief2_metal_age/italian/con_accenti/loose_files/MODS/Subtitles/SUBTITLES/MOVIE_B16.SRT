@@ -1,0 +1,185 @@
+1
+00:01:01,100 --> 00:01:01,900
+No!
+
+2
+00:01:02,901 --> 00:01:06,701
+La reazione continuerà se troverà altro materiale organico.
+
+3
+00:01:06,702 --> 00:01:07,802
+Per quanto?
+
+4
+00:01:08,303 --> 00:01:12,803
+Pare che sia sicuro solo quando tutto il gas rugginoso si sarà depositato in polvere.
+
+5
+00:01:13,704 --> 00:01:19,105
+Garrett... a quale scopo i Mechanists userebbero questi... Cultivators?
+
+6
+00:01:19,405 --> 00:01:23,105
+Beh, sappiamo che Karras li ha installati nelle maschere dei servi.
+
+7
+00:01:23,106 --> 00:01:23,806
+Sì.
+
+8
+00:01:23,807 --> 00:01:26,807
+E i servi sono stati collocati nelle case dei ricchi.
+
+9
+00:01:26,808 --> 00:01:29,208
+Sì! Le case con i giardini.
+
+10
+00:01:29,510 --> 00:01:34,410
+Le piante lì potrebbero sostenere una reazione abbastanza grande da distruggere... tutto! 
+
+11
+00:01:34,711 --> 00:01:38,811
+- Sì, dobbiamo escogitare un piano.
+- No, non c'è tempo per pensare.
+
+12
+00:01:39,113 --> 00:01:41,013
+Dobbiamo andare alla cattedrale Mechanist.
+
+13
+00:01:41,514 --> 00:01:44,114
+Il beacon di cui hai sentito parlare: potresti trovarlo,
+
+14
+00:01:44,515 --> 00:01:48,191
+provare ad attivarlo, per attirare i servi alla cattedrale!
+
+15
+00:01:48,915 --> 00:01:51,215
+Poi devi riuscire in qualche modo a far sì che Karras invii loro il segnale,
+
+16
+00:01:51,216 --> 00:01:52,892
+per rilasciare il gas rugginoso!
+
+17
+00:01:53,316 --> 00:01:58,016
+Vedi, se riempio la cattedrale di piante, abbastanza da alimentare una reazione a catena,
+
+18
+00:01:58,717 --> 00:02:01,493
+allora dovrebbe provocare lo stesso effetto che abbiamo appena visto,
+
+19
+00:02:02,117 --> 00:02:04,916
+ma porterebbe con sé Karras, invece della City!
+
+20
+00:02:05,217 --> 00:02:08,817
+Ricorda... la cattedrale è sigillata! Ermetica!
+
+21
+00:02:08,818 --> 00:02:12,418
+Se riuscissimo a entrare nella cattedrale Mechanist, se tu la riempissi di piante,
+
+22
+00:02:12,419 --> 00:02:16,995
+se io riuscissi a trovare, per non dire attivare, il beacon, tutto senza essere scoperti?!
+
+23
+00:02:17,319 --> 00:02:19,519
+È troppo rischioso. Ci uccideranno!
+
+24
+00:02:20,120 --> 00:02:24,420
+Karras ha creato questi dispositivi per distruggere tutto ciò che conosciamo.
+
+25
+00:02:24,620 --> 00:02:27,920
+E ora che sono al loro posto, gli basta dire una parola.
+
+26
+00:02:28,520 --> 00:02:31,320
+Non c'è più tempo. Dobbiamo agire.
+
+27
+00:02:31,520 --> 00:02:35,820
+- Sei troppo cieco per capirlo?
+- Il tuo piano è un suicidio.
+
+28
+00:02:36,220 --> 00:02:39,620
+Troverò un modo migliore. E lavoro da solo.
+
+29
+00:02:43,620 --> 00:02:48,220
+Diane, Larkspur, devo parlarvi. Ora.
+
+30
+00:02:59,120 --> 00:03:01,820
+Sono qui contro il volere del Consiglio dei Keepers.
+
+31
+00:03:02,220 --> 00:03:03,820
+Sono qui come tua amica, Garrett.
+
+32
+00:03:04,520 --> 00:03:05,220
+Ascolta.
+
+33
+00:03:06,020 --> 00:03:09,320
+Viktoria ha iniziato un assalto alla cattedrale Mechanist.
+
+34
+00:03:09,620 --> 00:03:10,320
+No!
+
+35
+00:03:11,620 --> 00:03:13,820
+Spero che i glifi si sbaglino.
+
+36
+00:03:18,420 --> 00:03:21,020
+Affrontami tu stesso, sciocco uomo!
+
+37
+00:03:24,920 --> 00:03:25,720
+Viktoria!!
+
+38
+00:03:26,520 --> 00:03:27,520
+Garrett!
+
+39
+00:03:35,820 --> 00:03:40,520
+Ho fallito! Non c'è abbastanza vita vegetale per sostenere la reazione.
+
+40
+00:03:41,120 --> 00:03:43,720
+Queste bestie meccaniche mi hanno scoperta.
+
+41
+00:03:44,120 --> 00:03:46,320
+Ma c'è un'ultima cosa che posso fare.
+
+42
+00:03:47,620 --> 00:03:50,820
+Poi toccherà a te... mio buon ladro. 
+
+43
+00:03:51,620 --> 00:03:53,820
+Aspetta! Viktoria! Andiamo--
+
+44
+00:03:55,820 --> 00:03:56,920
+Viktoria!
+
+45
+00:04:04,420 --> 00:04:08,420
+Io sono abbastanza pianta!
+
+46
+00:04:12,020 --> 00:04:13,020
+Karras...

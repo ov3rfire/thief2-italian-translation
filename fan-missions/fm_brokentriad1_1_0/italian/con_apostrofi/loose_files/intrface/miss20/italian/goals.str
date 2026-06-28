@@ -1,0 +1,49 @@
+fiction_0: "(FACOLTATIVO) L’ispettore di sicurezza alloggia attualmente alla locanda Bathing Burrick. Trova e ruba il suo rapporto. Dovrebbe fornirti informazioni preziose sui sistemi d’allarme del Museo Harrogate."
+text_0: "(FACOLTATIVO) Ruba il rapporto dell’ispettore di sicurezza."
+
+fiction_1: "Sheila Jennings, una delle curatrici dell’Harrogate, ha promesso di procurarti un paio di chiavi per accedere al museo. Vai a trovarla."
+text_1: "Visita Sheila e vedi se ha qualche chiave per te."
+
+fiction_2: "Trova il modo di entrare nel museo e scambia la scultura \"The Sleeper\" con la tua replica."
+text_2: "Trova il modo di entrare nel museo e scambia la scultura \"The Sleeper\" con la tua replica."
+
+fiction_3: "Assicurati di riattivare tutte le misure di sicurezza attorno alla scultura una volta effettuato lo scambio. In questo modo nessuno notera' la differenza per un po’."
+text_3: "Una volta effettuato lo scambio, riattiva le misure di sicurezza attorno alla scultura esattamente come le hai trovate."
+
+fiction_4: "Segui le istruzioni di Keeper Lennard per liberarti di Nyarsal."
+text_4: "Segui le istruzioni di Keeper Lennard per liberarti di Nyarsal."
+
+fiction_5: "Dopo aver completato tutto, torna al tuo appartamento."
+text_5: "Dopo aver completato tutto, torna al tuo appartamento."
+
+fiction_6: "Entra nel portale del museo e spera che anche Keeper Aleph non stia giocando con te."
+text_6: "Entra nel portale del museo e spera che anche Keeper Aleph non stia giocando con te."
+
+fiction_7: "(FACOLTATIVO) Cerca di evitare di far scattare uno qualsiasi dei sistemi d’allarme del museo."
+text_7: "(FACOLTATIVO) Cerca di evitare di far scattare uno qualsiasi dei sistemi d’allarme del museo."
+
+fiction_8: "(BONUS) Almeno ora sai perche' ti sei imbattuto in questo corno cosi' tante volte in passato."
+text_8: "(BONUS) Almeno ora sai perche' ti sei imbattuto in questo corno cosi' tante volte in passato."
+
+fiction_9: "(BONUS) Il Solar Core trovera' sicuramente un acquirente generoso."
+text_9: "(BONUS) Il Solar Core trovera' sicuramente un acquirente generoso."
+
+fiction_10: "(BONUS) Bella pensata. Non vorrai che il tuo nome venga collegato a questi omicidi."
+text_10: "(BONUS) Bella pensata. Non vorrai che il tuo nome venga collegato a questi omicidi."
+
+fiction_11: "(BONUS) Hai trovato tutto il bottino della missione!"
+text_11: "(BONUS) Hai trovato tutto il bottino della missione!"
+
+fiction_12: "(FALLIMENTO) Ti sei cacciato da solo in un vicolo cieco!"
+text_12: "(FALLIMENTO) Ti sei cacciato da solo in un vicolo cieco!"
+
+fiction_13: "(D’OH!) HAI BARATO E HAI GUARDATO GLI OBIETTIVI IN GOALS.STR!"
+text_13: "(D’OH!) HAI VINTO!"
+
+
+
+
+
+
+
+

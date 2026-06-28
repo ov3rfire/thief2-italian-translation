@@ -1,0 +1,64 @@
+head	 1.2;
+branch   ;
+access   ;
+symbols  ;
+locks    ; strict;
+comment  @@;
+
+
+1.2
+date	 2000.02.28.12.14.58;  author rcaminos;  state Exp;
+branches ;
+next	 1.1;
+
+1.1
+date	 2000.02.17.19.57.33;  author rcaminos;  state Exp;
+branches ;
+next	 ;
+
+
+desc
+@my goals for framed
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@fiction_0: "I Mechanists hanno installato un meccanismo d'allarme nella Shoalsgate Station che può essere attivato dagli occhi meccanici o dalle guardie. Non lasciare che facciano scattare l'allarme."
+text_0: "Non lasciare che le guardie o gli occhi meccanici diano l'allarme."
+fiction_1: "L'incastro non reggerà se la City Watch sospetta che tu sia coinvolto. Mantieni il conteggio dei corpi non oltre cinque."
+text_1: "Non mettere KO né uccidere più di cinque guardie."
+fiction_2: " L'incastro non reggerà se la City Watch sospetta che tu sia coinvolto. Mantieni il conteggio dei corpi non oltre due."
+text_2: "Non mettere KO né uccidere più di due guardie.'"
+fiction_3: " L'incastro non reggerà se la City Watch sospetta che tu sia coinvolto. Qualunque violenza dentro Shoalsgate manderà completamente a monte il piano."
+text_3: "Non mettere KO né uccidere nessuno."
+fiction_4: "Vai nell'ufficio del Ten. Hagen e prendi un suo oggetto personale da usare per incastrarlo. "
+text_4: "Ottieni un oggetto personale del Ten. Hagen nel suo ufficio."
+fiction_5: "Lascia l'oggetto personale nel caveau al terzo piano."
+text_5: "Lascia l'oggetto personale nel caveau del terzo piano."
+fiction_6: "Ruba la cassetta di sicurezza dal caveau e lasciala nell'ufficio del Ten. Hagen."
+text_6: "Ruba la cassetta di sicurezza e lasciala nell'ufficio del Ten. Hagen."
+fiction_7: "Lascia la Shoalsgate Station."
+text_7: "Lascia la Shoalsgate Station."
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d6 1
+a6 1
+text_2: "Non mettere KO né uccidere più di due guardie.'"
+d11 6
+a16 6
+fiction_5: "Lascia l'oggetto personale nel caveau al terzo piano."
+text_5: "Lascia l'oggetto personale nel caveau del terzo piano."
+fiction_6: "Ruba la cassetta di sicurezza dal caveau e lasciala nell'ufficio del Ten. Hagen."
+text_6: "Ruba la cassetta di sicurezza e lasciala nell'ufficio del Ten. Hagen."
+fiction_7: "Fuggi dalla Shoalsgate Station."
+text_7: "Fuggi dalla Shoalsgate Station."@

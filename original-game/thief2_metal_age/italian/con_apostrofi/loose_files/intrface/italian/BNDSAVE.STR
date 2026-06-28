@@ -1,0 +1,12 @@
+save: "Salva"
+done: "Fatto"
+
+unused: "< VUOTO >"
+
+initial: "Seleziona un file di comandi da salvare."
+saving: "Salvataggio..."
+
+success: "Salvataggio riuscito"
+failure: "Salvataggio fallito"
+
+my_binds: "I miei comandi"

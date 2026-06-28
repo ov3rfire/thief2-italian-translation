@@ -1,0 +1,6 @@
+;M02b02.str  how to use combo lock updated
+
+Page_0: "TECNOLOGIA MECHANIST                 
+Questo dispositivo e' ora configurato per te affinche' i responsabili del magazzino possano entrare facilmente nell'area di qualunque inquilino in qualsiasi momento. Quando desideri aprire una tale area chiusa, devi inserire i quattro numeri del suo indirizzo in questo dispositivo a tastiera. Quando avrai inserito il numero corretto, vedrai che apparira' sui quadranti alla tua sinistra - cio' fara' aprire la grande porta verde della baia dell'area desiderata. Puoi aprire solo una porta alla volta, e se apri un'altra porta, la prima si chiudera'. Se hai domande, rivolgile subito a me.
+	-Amico Capezza,  0457"
+;put right next to keypad

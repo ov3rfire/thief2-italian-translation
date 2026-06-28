@@ -1,0 +1,9 @@
+// Main menu strings
+
+new_game:       "Nuova Partita"
+load_game:      "Carica Partita"
+options:        "Opzioni"
+credits:        "Crediti"
+intro:          "Intro"
+quit:           "Esci" 
+

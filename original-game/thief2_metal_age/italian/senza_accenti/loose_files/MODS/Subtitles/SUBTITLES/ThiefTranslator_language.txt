@@ -1,0 +1,3 @@
+﻿language=italian
+description=output generato
+updated=2026-06-28 20:16:00

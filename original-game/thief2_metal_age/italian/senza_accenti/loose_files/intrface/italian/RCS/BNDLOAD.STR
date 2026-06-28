@@ -1,0 +1,35 @@
+head	 1.1;
+branch   ;
+access   ;
+symbols  ;
+locks    ; strict;
+comment  @@;
+
+
+1.1
+date	 1998.10.23.15.19.36;  author DARRENL;  state Exp;
+branches ;
+next	 ;
+
+
+desc
+@@
+
+
+
+1.1
+log
+@Initial revision
+@
+text
+@load: "Carica"
+done: "Annulla"
+
+unused: "< VUOTO >"
+
+initial: "Seleziona un file di comandi da caricare."
+loading: "Caricamento..."
+
+
+
+@

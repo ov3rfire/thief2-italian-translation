@@ -1,0 +1,111 @@
+use_blackjack: "Quest'arma mettera' KO un bersaglio ignaro con 
+poco rumore e senza sangue."
+
+use_breath: "Questa pozione ti fornira' qualche secondo d'aria in piu' 
+quando nuoti sott'acqua. Costo:125"        
+
+use_broadhead: "Questa e' una freccia affilata. Costo:25"
+
+use_fire: "Questa freccia esplodera' all'impatto, danneggiando il bersaglio e incendiando 
+materiali infiammabili come le torce. Non descrive un arco in volo, quindi mira con 
+la parte alta del mirino dell'arco. Costo:300"
+
+use_flash: "Questa granata produrra' un lampo di luce intensa, accecando 
+i nemici (o il ladro incauto) che la stanno guardando. Costo:200" 
+
+use_gasarrow: "Questa freccia esplode all'impatto in una nube di gas soporifero, addormentando 
+la maggior parte delle creature viventi nella sua area. Non descrive archi in volo, 
+quindi mira con la parte superiore del mirino dell'arco. Costo:500"
+
+use_gasmine: "Questa granata ha un sensore di prossimita' e produrra' una 
+nube di gas soporifero quando qualcuno si avvicina. 
+Una volta armata, puoi soltanto 
+disarmarla con i tuoi grimaldelli. Costo 500:"
+
+use_healing: "Questa pozione ripristina la salute perduta. Costo:250"
+
+use_holywater: ""
+
+use_slowfall: "Questa pozione riduce parte della tua velocita' di caduta quando 
+viene bevuta, e attenua l'effetto della gravita'. Costo: 150"
+
+use_invisibility: "Questa pozione ti rende invisibile! Bada che dura soltanto 
+pochi secondi, e non ti rende inudibile. Costo: 600"
+
+use_lockpick: "Questi strumenti ti permetteranno di aprire la maggior parte delle serrature, con un po' di lavoro."
+
+use_pricey_lockpick: "Questi strumenti ti permetteranno di aprire la maggior parte delle serrature, con un po' di lavoro. Costo: 4000 la coppia."
+
+use_mine: "Questa granata ha un sensore di prossimita' e produrra' una 
+fiammata esplosiva quando qualcuno si avvicina. 
+Una volta armata, puoi soltanto 
+disarmarla con i tuoi grimaldelli. Costo 350:"
+
+use_moss: "Questa freccia sprigiona una nube di muschio all'impatto, che si deposita in un 
+tappeto morbido e silenzioso. Costo:125"
+
+use_noisemaker: "Il meccanismo in questa freccia produce uno strano rumore 
+all'impatto, utile come diversivo. Costo:250"
+
+use_rope: "Questa freccia si conficchera' nelle superfici di legno e dispieghera' una corda pendente. 
+Costo:200"
+
+use_vine: "Prodotta dalla magia di Viktoria (e portata in citta' tramite 
+le dovute tangenti). Questa freccia puo' attecchire su graticci 
+cosi' come su qualunque superficie in cui una normale freccia con corda potrebbe conficcarsi. Costo: 200."
+
+use_sword: "Oltre a fare buchi nel nemico, una spada puo' parare 
+l'attacco di un avversario."
+
+use_water: "La freccia d'acqua non infligge alcun danno, ma spegne 
+torce e altri oggetti in fiamme, e ripulisce le macchie di sangue. Costo:50"
+
+use_tip: "Qualcuno vuole darti un consiglio... a pagamento. Costo: 25"
+
+use_tip50: "Qualcuno vuole darti un consiglio... a pagamento. Costo: 50"
+
+use_tip100: "Qualcuno vuole darti un consiglio... a pagamento. Costo: 100"
+
+use_hammertip: "Uno degli Hammerites e' disposto a offrirti alcune 
+informazioni che ha trovato, ma insiste perche' tu le paghi - qualcosa 
+sul non macchiarsi l'anima aiutando i ladri. Costo:100"
+
+use_speed: "Questa pozione aumentera' notevolmente la tua velocita' di corsa e 
+di camminata, per breve tempo. Costo: 300."
+
+use_equiptip: "Un mercante locale potrebbe non avere gli oggetti che ti servono, 
+ma sa dove puoi procurarteli. Costo: 200"
+
+use_diamondtip: "La City offre molte opportunita' a un ladro 
+addestrato -- se sa dove guardare. Costo: 100"
+
+use_scripture: "Questo e' il primo passo della New Scripture 
+del Master Builder, scritto da Karras e consegnatoti da Viktoria."
+
+use_flare: "Ogni bengala illuminera' l'ambiente circostante per un 
+breve periodo di tempo. Costo: 25"
+
+use_camera: "Si collega all'occhio meccanico di Garrett usando vibrazioni 
+eteriche quando viene lasciato o lanciato, permettendogli di vedere dalla sua 
+posizione. Il tasto USA lascia questa visuale. Costo: 300"
+
+use_birdcall: "Questo dispositivo di segnalazione produrra' un suono distintivo ma 
+non sospetto quando usato, permettendoti di fare un segnale a Basso."
+
+use_frogegg: "Fatti entrare di contrabbando in citta' a caro prezzo dagli agenti di Viktoria, 
+questi oggetti scoppieranno mollemente quando lanciati e produrranno una bestia-rana, 
+che si alleera' con te. Costo: 200"
+
+use_m12keys: "Hai raccolto alcune chiavi del maniero quando sei stato qui 
+prima. Dovrebbero tornare utili."
+
+use_m12letter: "Una lettera di Karras a Gervaisius. Lettura interessante."
+
+use_FlashMine: "Questa granata ha un sensore di prossimita' e produrra' un 
+lampo accecante quando qualcuno si avvicina. 
+Una volta armata, puoi soltanto 
+disarmarla con i tuoi grimaldelli. Costo 350:"
+
+use_SDBoxKey: "La chiave della cassetta di sicurezza Mechanist di cui hai fatto una copia."
+
+

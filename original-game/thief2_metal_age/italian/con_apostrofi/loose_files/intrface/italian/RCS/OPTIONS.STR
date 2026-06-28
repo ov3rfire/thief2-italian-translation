@@ -1,0 +1,422 @@
+head	 1.9;
+branch   ;
+access   ;
+symbols  ;
+locks    ; strict;
+comment  @@;
+
+
+1.9
+date	 1998.10.26.03.00.19;  author DARRENL;  state Exp;
+branches ;
+next	 1.8;
+
+1.8
+date	 1998.10.26.02.50.16;  author DARRENL;  state Exp;
+branches ;
+next	 1.7;
+
+1.7
+date	 1998.10.25.15.36.40;  author DARRENL;  state Exp;
+branches ;
+next	 1.6;
+
+1.6
+date	 1998.10.25.15.22.13;  author DARRENL;  state Exp;
+branches ;
+next	 1.5;
+
+1.5
+date	 1998.10.23.22.57.43;  author DARRENL;  state Exp;
+branches ;
+next	 1.4;
+
+1.4
+date	 1998.10.23.22.55.29;  author DARRENL;  state Exp;
+branches ;
+next	 1.3;
+
+1.3
+date	 1998.10.23.22.45.51;  author DARRENL;  state Exp;
+branches ;
+next	 1.2;
+
+1.2
+date	 1998.10.23.15.18.02;  author DARRENL;  state Exp;
+branches ;
+next	 1.1;
+
+1.1
+date	 1998.10.23.15.17.42;  author DARRENL;  state Exp;
+branches ;
+next	 ;
+
+
+desc
+@@
+
+
+1.9
+log
+@*** empty log message ***
+@
+text
+@// Options menu strings
+bnd_header:     "; Questo file e' stato generato da Thief: The Dark Project."
+
+tab_0:          "Comandi"
+tab_1:          "Video"
+tab_2:          "Audio"
+tab_3:          "Gioco"
+
+done:           "Fatto"
+dummy:          ""
+
+// Control buttons
+control_0:      "Personalizza Comandi..."
+control_1:      "Zoom Arco: "
+control_2:      "Ritorno visuale: "
+control_3:      "Inverti Mouse: "
+control_4:      "Visuale Libera Sempre: "
+mouse_sens:     "Sensibilita' Mouse"
+
+// Video buttons
+videob_0:       "Hardware "
+videob_1:       "Risoluzione"
+videob_2:       "Dettaglio Personaggio: "
+videob_3:       "Opzioni Avanzate..."
+gamma:          "Regolazione Gamma"
+videoa_0:       "Driver Hardware"
+videoa_1:       "Z-Buffer "
+videoa_2:       "Opzioni Base..."
+
+// Audio buttons
+audio_0:        "Test Altoparlanti"
+audio_1:        "Stereo Invertito "
+audio_2:        "A3D "
+volume:         "Volume"
+
+// Binding buttons
+bind_0:         "Carica"
+bind_1:         "Indietro"
+bind_2:         "Salva"
+bind_3:         "Configurazione Rapida"
+bind_4:         "Associa"
+bind_5:         "Cancella"
+
+bindname_0:      "Avanti"
+bindname_1:      "Indietro"
+bindname_2:      "Scivola a Sinistra"
+bindname_3:      "Scivola a Destra"
+bindname_4:      "Gira a Sinistra"
+bindname_5:      "Gira a Destra"
+bindname_6:      "Guarda Su"
+bindname_7:      "Guarda Giu'"
+bindname_8:      "Centra Visuale"
+bindname_9:      "Sporgiti a Sinistra"
+bindname_10:      "Sporgiti a Destra"
+bindname_11:      "Accovacciati"
+bindname_12:      "Salta"
+bindname_13:      "Attacca"
+bindname_14:      "Usa Oggetto"
+bindname_15:      "Para"
+bindname_16:      "Attiva/Disattiva Velocita'"
+bindname_17:      "Scivolamento Attivo"
+bindname_18:      "Visuale Libera"
+bindname_19:      "Lascia Oggetto"
+bindname_20:      "Oggetto Successivo"
+bindname_21:      "Oggetto Precedente"
+bindname_22:      "Riponi Oggetto"
+bindname_23:      "Arma Successiva"
+bindname_24:      "Arma Precedente"
+bindname_25:      "Riponi Arma"
+bindname_26:      "Spada"
+bindname_27:      "Manganello"
+bindname_28:      "Freccia"
+bindname_29:      "Freccia d’acqua"
+bindname_30:      "Freccia di fuoco"
+bindname_31:      "Freccia di muschio"
+bindname_32:      "Freccia a gas"
+bindname_33:      "Freccia corda"
+bindname_34:      "Freccia sonora"
+bindname_35:      "Pozione curativa"
+bindname_36:      "Pozione del respiro"
+bindname_37:      "Acqua santa"
+bindname_38:      "Grimaldello a denti quadrati"
+bindname_39:      "Grimaldello a denti triangolari"
+bindname_40:      "Flash Bombs"
+bindname_41:      "Mina a gas"
+bindname_42:      "Mina"
+bindname_43:      "Visualizza Mappa"
+bindname_44:      "Visualizza Obiettivi"
+         
+
+//key names
+esc:		"Esc"
+pause:		"Pausa"
+print_screen:	"Stamp"
+scroll_lock:	"Bloc Scorr"
+backspace:	"Backspace"
+tab:		"Tab"
+enter:		"Invio"
+space:		"Spazio"
+ins:		"Ins"
+del:		"Canc"
+home:		"Home"
+end:		"Fine"
+pgup:		"PagSu"
+pgdn:           "PagGiu'"
+up:		"Su"
+down:		"Giu'"
+left:		"Sinistra"
+right:		"Destra"
+keypad_ins:	"Tastierino Ins"
+keypad_del:	"Tastierino Canc"
+keypad_end:	"Tastierino Fine"
+keypad_down:	"Tastierino Giu'"
+keypad_pgdn:	"Tastierino PagGiu'"
+keypad_left:	"Tastierino Sinistra"
+keypad_center:	"Tastierino Centro"
+keypad_right:	"Tastierino Destra"
+keypad_home:	"Tastierino Home"
+keypad_up:	"Tastierino Su"
+keypad_pgup:	"Tastierino PagSu"
+keypad_slash:	"Tastierino Barra"
+keypad_star:	"Tastierino Asterisco"
+keypad_minus:	"Tastierino Meno"
+keypad_plus:	"Tastierino Piu'"
+keypad_enter:	"Tastierino Invio"
+alt:		"Alt"
+ctrl:		"Ctrl"
+shift:		"Shift"
+lalt:		"Alt sinistro"
+lctrl:		"Ctrl sinistro"
+lshift:		"Shift sinistro"
+ralt:		"Alt destro"
+rctrl:		"Ctrl destro"
+rshift:		"Shift destro"
+mouse1:		"Mouse 1"
+mouse2:		"Mouse 2"
+mouse3:		"Mouse 3"
+mouse4:		"Mouse 4"
+mouse_axisx:	"Asse Mouse-X"
+mouse_axisy:	"Asse Mouse-Y"
+mouse_axisz:	"Asse Mouse-Z"
+joy1:		"Joy 1"
+joy2:		"Joy 2"
+joy3:		"Joy 3"
+joy4:		"Joy 4"
+joy5:		"Joy 5"
+joy6:		"Joy 6"
+joy7:		"Joy 7"
+joy8:		"Joy 8"
+joy9:		"Joy 9"
+joy10:		"Joy 10"
+joy_axisx:	"Asse Joy-X"
+joy_axisy:	"Asse Joy-Y"
+joy_axisz:	"Asse Joy-Z"
+joy_axisr:	"Asse Joy-R"
+joy_hataxisx:	"Asse Cappello Joy-X"
+joy_hataxisy:	"Asse Cappello Joy-Y"
+joy_hatup:	"Cappello Joy Su"
+joy_hatdn:	"Cappello Joy Giu'"
+joy_hatrt:	"Cappello Joy Destra"
+joy_hatlt:	"Cappello Joystick Sinistra"
+
+// Game buttons
+game_0:         "Normale"
+game_1:         "Difficile"
+game_2:         "Esperto"
+diff:           "Difficolta'"
+
+// Misc strings
+misc_0:		"Attivo"
+misc_1:		"Disattivo"
+misc_2:         "Vuoto"
+misc_3:         "Basso"
+misc_4:         "Alto"
+
+leftsound:	"bowtwnga.wav"
+rightsound:	"bowtwnga.wav"
+@
+
+
+1.8
+log
+@*** empty log message ***
+@
+text
+@d172 1
+a172 1
+misc_2:		" = Vuoto"
+@
+
+
+1.7
+log
+@*** empty log message ***
+@
+text
+@d25 1
+a25 1
+gamma:       "Regolazione Gamma"
+d82 3
+a84 3
+bindname_38:      "Grimaldello"
+bindname_39:      "Flash Bombs"
+bindname_40:      "Mina"
+d86 3
+a88 2
+bindname_42:      "Visualizza Mappa"
+bindname_43:      "Visualizza Obiettivi"
+d111 1
+a111 1
+keypad_del:     "Tastierino Canc"
+@
+
+
+1.6
+log
+@*** empty log message ***
+@
+text
+@d82 6
+a87 7
+bindname_38:      "Flash Bombs"
+bindname_39:      "Mina"
+bindname_40:      "Mina a gas"
+bindname_41:      "Grimaldello a denti quadrati"
+bindname_42:      "Grimaldello a denti triangolari"
+bindname_43:      "Visualizza Mappa"
+bindname_44:      "Visualizza Obiettivi"
+d110 1
+a110 1
+keypad_del:	"Tastierino Canc"
+@
+
+
+1.5
+log
+@*** empty log message ***
+@
+text
+@d66 23
+a88 22
+bindname_22:      "Arma Successiva"
+bindname_23:      "Arma Precedente"
+bindname_24:      "Mani Vuote"
+bindname_25:      "Spada"
+bindname_26:      "Manganello"
+bindname_27:      "Freccia"
+bindname_28:      "Freccia d’acqua"
+bindname_29:      "Freccia di fuoco"
+bindname_30:      "Freccia di muschio"
+bindname_31:      "Freccia a gas"
+bindname_32:      "Freccia corda"
+bindname_33:      "Freccia sonora"
+bindname_34:      "Pozione curativa"
+bindname_35:      "Pozione del respiro"
+bindname_36:      "Acqua santa"
+bindname_37:      "Flash Bombs"
+bindname_38:      "Mina"
+bindname_39:      "Mina a gas"
+bindname_40:      "Grimaldello a denti quadrati"
+bindname_41:      "Grimaldello a denti triangolari"
+bindname_42:      "Visualizza Mappa"
+bindname_43:      "Visualizza Obiettivi"
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@d104 1
+a104 1
+pgdn:		"PgDn
+@
+
+
+1.3
+log
+@*** messaggio di log vuoto ***
+@
+text
+@d91 70
+a160 70
+esc"Esc"pause"Pause"print_screen"Print Screen"scroll_lock"Scroll Lock"backspace"Backspace"tab"Tab"enter"Enter"space"Space"ins"Ins"del"Del"home"Home"end"End"pgup"PgUp"pgdn"PgDn
+up		"Su"
+down		"Giu'"
+left		"Sinistra"
+right		"Destra"
+keypad_ins	"Tastierino Ins"
+keypad_del	"Tastierino Canc"
+keypad_end	"Tastierino Fine"
+keypad_down	"Tastierino Giu'"
+keypad_pgdn	"Tastierino PagGiu'"
+keypad_left	"Tastierino Sinistra"
+keypad_center	"Tastierino Centro"
+keypad_right	"Tastierino Destra"
+keypad_home	"Tastierino Home"
+keypad_up	"Tastierino Su"
+keypad_pgup	"Tastierino PagSu"
+keypad_slash	"Tastierino Barra"
+keypad_star	"Tastierino Asterisco"
+keypad_minus	"Tastierino Meno"
+keypad_plus	"Tastierino Piu'"
+keypad_enter	"Tastierino Invio"
+alt		"Alt"
+ctrl		"Ctrl"
+shift		"Shift"
+lalt		"Alt sinistro"
+lctrl		"Ctrl sinistro"
+lshift		"Shift sinistro"
+ralt		"Alt destro"
+rctrl		"Ctrl destro"
+rshift		"Shift destro"
+mouse1		"Mouse 1"
+mouse2		"Mouse 2"
+mouse3		"Mouse 3"
+mouse4		"Mouse 4"
+mouse_axisx	"Asse Mouse-X"
+mouse_axisy	"Asse Mouse-Y"
+mouse_axisz	"Asse Mouse-Z"
+joy1		"Joy 1"
+joy2		"Joy 2"
+joy3		"Joy 3"
+joy4		"Joy 4"
+joy5		"Joy 5"
+joy6		"Joy 6"
+joy7		"Joy 7"
+joy8		"Joy 8"
+joy9		"Joy 9"
+joy10		"Joy 10"
+joy_axisx	"Asse Joy-X"
+joy_axisy	"Asse Joy-Y"
+joy_axisz	"Asse Joy-Z"
+joy_axisr	"Asse Joy-R"
+joy_hataxisx	"Asse Cappello Joy-X"
+joy_hataxisy	"Asse Cappello Joy-Y"
+joy_hatup	"Cappello Joy Su"
+joy_hatdn	"Cappello Joy Giu'"
+joy_hatrt	"Cappello Joy Destra"
+joy_hatlt	"Cappello Joystick Sinistra"
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d90 71
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@@

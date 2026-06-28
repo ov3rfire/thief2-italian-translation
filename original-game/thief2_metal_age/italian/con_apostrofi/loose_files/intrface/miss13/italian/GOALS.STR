@@ -1,0 +1,31 @@
+fiction_0: "Ruba una maschera Precursor."
+text_0: "Ruba una maschera Precursor."
+fiction_1: "Ruba una maschera Precursor di legno."
+text_1: "Ruba una maschera Precursor di legno."
+fiction_2: "Ruba tutte e tre le maschere Precursor."
+text_2: "Ruba tutte e tre le maschere Precursor."
+// Note: it is possible to "scopri" the contents of the letter
+// without _reading_ the letter!  Phrasing must account for that.
+fiction_3: "Scopri il contenuto della lettera di Karras a Gervaisius."
+text_3: "Scopri il contenuto della lettera di Karras a Gervaisius."
+fiction_4: "A quanto pare, Gervaisius ha messo le mani anche su un Cultivator. 
+Sembra che questo colpo sara' il tuo centro commerciale di artefatti tutto in uno."
+text_4: "Prendi un Cultivator."
+fiction_5: "obiettivo di riempimento. l'obiettivo cultivator deve essere il quarto obiettivo"
+text_5: ""
+fiction_6: "Non lasciare che la fretta per le maschere ti faccia dimenticare il valore del denaro. 
+Ottieni 1400 di bottino."
+text_6: "Ottieni 1400 di bottino."
+fiction_7: "Non lasciare che la fretta per le maschere ti faccia dimenticare il valore del denaro. 
+Ottieni 2100 di bottino."
+text_7: "Ottieni 2100 di bottino."
+fiction_8: "Non lasciare che la fretta per le maschere ti faccia dimenticare il valore del denaro. 
+Ottieni 2800 di bottino."
+text_8: "Ottieni 2800 di bottino."
+fiction_9: "Non c'e' bisogno di modi bruschi se puoi evitarli. Non uccidere alcun 
+passante."
+text_9: "Non uccidere alcun \"innocente\"."
+fiction_10: "Non c'e' bisogno di modi bruschi. Non uccidere nessuno."
+text_10: "Non uccidere nessuno."
+fiction_11: "Esci dalla magione e torna in strada."
+text_11: "Esci in strada."

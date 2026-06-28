@@ -1,0 +1,10 @@
+load: "Carica"
+done: "Annulla"
+
+unused: "< VUOTO >"
+
+initial: "Seleziona un file di comandi da caricare."
+loading: "Caricamento..."
+
+
+

@@ -1,0 +1,12 @@
+clear: "Cancella"
+play: "Gioca Missione"
+briefing: "Rivedi Briefing"
+goals: "Rivedi Obiettivi"  
+cash: "Denaro"
+
+title_0: "Equipaggiamento Iniziale" 
+title_1: "Oggetti Acquistati" 
+title_2: "Oggetti in Vendita"
+
+blank_desc: "Clicca su un oggetto per visualizzarne la descrizione."
+

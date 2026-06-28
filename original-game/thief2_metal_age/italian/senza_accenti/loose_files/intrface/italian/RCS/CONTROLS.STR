@@ -1,0 +1,97 @@
+head	 1.1;
+branch   ;
+access   ;
+symbols  ;
+locks    DARRENL:1.1; strict;
+comment  @@;
+
+
+1.1
+date	 1998.10.25.16.04.48;  author DARRENL;  state Exp;
+branches ;
+next	 ;
+
+
+desc
+@@
+
+
+
+1.1
+log
+@Initial revision
+@
+text
+@// control strings
+         
+esc:		"Esc"
+pause:		"Pausa"
+print_screen:	"Stamp"
+scroll_lock:	"Bloc Scorr"
+backspace:	"Backspace"
+tab:		"Tab"
+enter:		"Invio"
+space:		"Spazio"
+ins:		"Ins"
+del:		"Canc"
+home:		"Home"
+end:		"Fine"
+pgup:		"PagSu"
+pgdn:           "PagGiu"
+up:		"Su"
+down:		"Giu"
+left:		"Sinistra"
+right:		"Destra"
+keypad_ins:	"Tastierino Ins"
+keypad_del:     "Tastierino Canc"
+keypad_end:	"Tastierino Fine"
+keypad_down:	"Tastierino Giu"
+keypad_pgdn:	"Tastierino PagGiu"
+keypad_left:	"Tastierino Sinistra"
+keypad_center:	"Tastierino Centro"
+keypad_right:	"Tastierino Destra"
+keypad_home:	"Tastierino Home"
+keypad_up:	"Tastierino Su"
+keypad_pgup:	"Tastierino PagSu"
+keypad_slash:	"Tastierino Barra"
+keypad_star:	"Tastierino Asterisco"
+keypad_minus:	"Tastierino Meno"
+keypad_plus:	"Tastierino Piu"
+keypad_enter:	"Tastierino Invio"
+alt:		"Alt"
+ctrl:		"Ctrl"
+shift:		"Shift"
+lalt:		"Alt sinistro"
+lctrl:		"Ctrl sinistro"
+lshift:		"Shift sinistro"
+ralt:		"Alt destro"
+rctrl:		"Ctrl destro"
+rshift:		"Shift destro"
+mouse1:		"Mouse 1"
+mouse2:		"Mouse 2"
+mouse3:		"Mouse 3"
+mouse4:		"Mouse 4"
+mouse_axisx:	"Asse Mouse-X"
+mouse_axisy:	"Asse Mouse-Y"
+mouse_axisz:	"Asse Mouse-Z"
+joy1:		"Joy 1"
+joy2:		"Joy 2"
+joy3:		"Joy 3"
+joy4:		"Joy 4"
+joy5:		"Joy 5"
+joy6:		"Joy 6"
+joy7:		"Joy 7"
+joy8:		"Joy 8"
+joy9:		"Joy 9"
+joy10:		"Joy 10"
+joy_axisx:	"Asse Joy-X"
+joy_axisy:	"Asse Joy-Y"
+joy_axisz:	"Asse Joy-Z"
+joy_axisr:	"Asse Joy-R"
+joy_hataxisx:	"Asse Cappello Joy-X"
+joy_hataxisy:	"Asse Cappello Joy-Y"
+joy_hatup:	"Cappello Joy Su"
+joy_hatdn:	"Cappello Joy Giu"
+joy_hatrt:	"Cappello Joy Destra"
+joy_hatlt:	"Cappello Joystick Sinistra"
+@

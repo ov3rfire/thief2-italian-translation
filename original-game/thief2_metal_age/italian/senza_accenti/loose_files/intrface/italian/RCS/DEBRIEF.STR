@@ -1,0 +1,127 @@
+head	 1.2;
+branch   ;
+access   ;
+symbols  ;
+locks    ; strict;
+comment  @@;
+
+
+1.2
+date	 1998.10.27.21.15.29;  author dc;  state Exp;
+branches ;
+next	 1.1;
+
+1.1
+date	 1998.10.27.21.15.11;  author dc;  state Exp;
+branches ;
+next	 ;
+
+
+desc
+@ack
+@
+
+
+1.2
+log
+@new debrief sys
+@
+text
+@menu: "Menu"
+continue: "Continua"
+
+restart: "Replay"
+
+hours: "Ore"
+minutes: "Minuti"
+seconds: "Secondi"
+hour: "Ora"
+minute: "Minuto"
+second: "Secondo"
+true: "Vero"
+false: "Falso"
+some: "Alcuni"
+none: "Nessuno"
+
+stat_0: "TOTAL_LOOT"
+text_0: "Trovato "
+format_0: "@@x@@=01@@c%d"
+
+stat_1: "DrSLootTotal"
+text_1: " Bottino su "
+format_1: "%d" 
+
+stat_2: "DrSPocketOK"
+text_2: "Borseggiate: "
+format_2: "@@s%d"
+
+stat_3: "DrSPocketCnt"
+text_3: " su "
+format_3: "%d"
+
+stat_4: "DrSLockPick"
+text_4: "Serrature Scassinate"
+format_4: "@@<05%d"
+
+stat_5: "DrSBackStabs"
+text_5: "Pugnalate alle Spalle "
+format_5: "@@c%d"
+
+stat_6: "DrSKNockout"
+text_6: " KO "
+format_6: "@@c%d"
+
+stat_7: "DrSGassed"
+text_7: " Gasati "
+format_7: "@@+%d"
+
+stat_8: "DrSDmgDealt"
+text_8: "Danni Inflitti "
+format_8: "@@s%d"
+
+stat_9: "DrSDmgTaken"
+text_9: " Danni Subiti "
+format_9: "@@c%d"
+
+stat_10: "DrSHealing"
+text_10: " Cure Ricevute "
+format_10: "%d"
+
+stat_11: "DrSKills"
+text_11: "Uccisi "
+format_11: "%d"
+
+stat_12: "DrSTime"
+text_12: "Tempo Totale "
+format_12: "@@t"
+
+stat_13: "DrSCmLoot"
+text_13: "Campagna\nBottino Totale Finora "
+format_13: "@@n@@x@@<03%d"
+
+stat_14: "DrSCmTime"
+text_14: "Tempo Totale Finora "
+format_14: "@@t"
+
+stat_15: "DrSCmDmgDeal"
+text_15: "Danni Totali Inflitti "
+format_15: "@@c%d"
+
+stat_16: "DrSCmDmgTake"
+text_16: " e Ricevuti "
+format_16: "%d"
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d6 10
+d18 2
+a19 2
+text_0: "Bottino Totale"
+format_0: "%d" 
+d21 63
+@

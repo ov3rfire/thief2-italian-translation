@@ -1,0 +1,21 @@
+// Player Actions String Names
+// This is used for the Training mission.
+// The standard being used for now is actions in uppercase, inputs in lowercase.
+// If this file is only used by the Training mission and the Training mission doesn't
+// change much, these should be the only player action strings we need to ship with.
+//     - Randy
+Use: "USA"
+ReadySword: "SPADA"
+ReadyArrow: "FRECCIA"
+Attack: "ATTACCA"
+Block: "PARA"
+CycleInventory: "OGGETTO SUCCESSIVO"
+Countercycle: "OGGETTO PRECEDENTE"
+Jump: "SALTA"
+JumpBlock: "SALTA/PARA"
+Map: "MAPPA"
+ReadyWater: "FRECCIA D'ACQUA"
+ReadyBlackjack: "SFOLLAGENTE"
+Drop: "LASCIA"
+
+

@@ -1,0 +1,24 @@
+Loot_0: "Oro"
+Loot_1: "Gemme"
+Loot_2: "Beni"
+Loot_total: "Totale" 
+
+set_mode_failed: "Impossibile impostare la modalita' schermo richiesta."
+
+between_key_bindings: " o "
+no_key_bindings: "[Nessuno]"
+insert_cd_msg: "Inserire il CD nel lettore CD"
+insert_cd_title: "CD mancante!"
+
+regkey: "SOFTWARE\Looking Glass Studios\Thief:The Dark Project\1.0"
+
+driver_text: "Thief richiede driver compatibili al 100% con DirectX 6 per la tua scheda video/3D. Se non disponi di tali driver, potresti riscontrare alcuni problemi durante l'esecuzione di Thief.
+
+Se riscontri problemi di rendering o crash del sistema, aggiorna i driver della tua scheda contattando il produttore della scheda o del PC. 
+
+Se hai una scheda video con chipset 3DFX Voodoo 2, i driver sono stati forniti sul CD di Thief, nella cartella Drivers.
+
+Consulta il file ReadMe per informazioni piu' dettagliate."
+
+neveragain: "Non mostrarmi piu' questo messaggio"
+

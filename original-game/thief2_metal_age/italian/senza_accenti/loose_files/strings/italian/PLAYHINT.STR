@@ -1,0 +1,71 @@
+// Player Hints strings
+// Any onscreen hinty stuff would go here.
+NewGoal: "Nuovi Obiettivi"
+DoneGoal: "Obiettivo Completato"
+FoundSecret: "Segreto Trovato!"
+UseDoorOpen: "USA la porta per aprirla.\n"
+UseDoorClose: "USA la porta per chiuderla.\n"
+UseKeyTake: "USA la chiave per raccoglierla.\n"
+UseLootTake: "USA il bottino per raccoglierlo.\n"
+UsePortable: "Raccogli qualunque oggetto portatile con il tasto USA.\n"
+SelectWaterArrow: "Prepara la FRECCIA D'ACQUA per spegnere la torcia.\n"
+PullArrow: "Tieni premuto ATTACCA per tendere la freccia.\n"
+ReleaseArrow: "Mira al bersaglio e rilascia ATTACCA per tirare.\n"
+SelectBlackjack: "Prepara lo SFOLLAGENTE prima di procedere.\n"
+PullBackArm: "Tieni premuto ATTACCA per caricare il braccio.\n"
+ReleaseArm: "Avvicinati con cautela al bersaglio e mira alla sua testa.\n
+Non puoi stordire con lo sfollagente un guerriero che ti vede!\n
+Rilascia il tasto ATTACCA per colpire con lo sfollagente.\n"
+ReleaseArmClose: "Rilascia il tasto ATTACCA per colpire con lo sfollagente!\n"
+SelectKey: "Seleziona OGGETTO SUCCESSIVO o OGGETTO PRECEDENTE finche la chiave non e selezionata.\n"
+SelectNonTool: "Alcuni oggetti dell'inventario sono \"strumenti\" USATI sugli 
+oggetti nel mondo.\n
+USA per provare l'oggetto sull'oggetto nel mondo, oppure\n
+seleziona OGGETTO SUCCESSIVO o OGGETTO PRECEDENTE.\n
+Seleziona un oggetto diverso se vuoi USARE un oggetto nel mondo.\n"
+UseKeyUnlock: "Prima, USA la chiave per posizionarla sull'oggetto bloccato.\n
+Poi USA la chiave per sbloccare l'oggetto.\n"
+UseKeyLock: "Prima, USA la chiave per posizionarla sull'oggetto da bloccare.\n
+Poi USA la chiave per bloccare l'oggetto.\n"
+GoFindKey: "Trova la chiave per sbloccare la porta."
+UsePotionHeal: "USA la pozione per curare i danni.\n"
+DropOrUseFlashbomb: "Le Flash Bomb accecano chiunque guardi verso la loro detonazione - \n
+amico, nemico o te stesso\n
+USA la Flash Bomb per lanciarla, oppure LASCIA la Flash Bomb.\n"
+DropFlashbomb: "Le Flash Bomb accecano chiunque guardi verso la loro detonazione - \n
+amico, nemico o te stesso\n
+LASCIA la Flash Bomb per farla detonare.\n"
+UseFlareLight: "USA Flare per accenderla.\n"
+DropFlare: "LASCIA Flare per lasciarla in quest'area.\n"
+DropOrUseFlare: "LASCIA Flare per lasciarla in quest'area, oppure\n
+USA Flare per lanciarla.\n"
+UsePickpocket: "USA l'oggetto per borseggiare una creatura ignara.\n"
+LockBoxLock: "Impossibile USARE la porta chiusa da una cassetta di blocco. Trova la cassetta di blocco di questa porta per sbloccarla.\n"
+LockControl: "Impossibile USARE questa porta chiusa. Forse c'e un pulsante o un interruttore da qualche parte che puo aprirla.\n"
+NoKeyDoor: "Impossibile USARE la porta chiusa. Forse qualcuno la sblocchera.\n"
+CheckMap: "La MAPPA mostra l'area della missione con la tua posizione evidenziata.\n"
+VisGem: "La luminosita della Gemma di Visibilita (vicino al fondo dello schermo) indica\n
+quanto sei ben nascosto. Illuminazione, movimento, arma e postura\n
+influenzano tutti la tua visibilita."
+LockpickDoor: "Tieni premuto il tasto USA per posizionare il grimaldello sulla porta e iniziare a 
+scassinare la serratura. Continua a tenere premuto il tasto USA finche la porta non si apre. Se senti solo 
+un breve clic, prova l'altro grimaldello. \n"
+LockpickChest: "Tieni premuto il tasto USA per posizionare il grimaldello sul forziere e iniziare a 
+scassinare la serratura. Continua a tenere premuto il tasto USA finche il chiavistello ruota di 90 gradi. Se senti solo
+un breve clic, prova l'altro grimaldello.\n"
+LockpickDoor2: "Tieni premuto il tasto USA per posizionare il grimaldello sulla porta e iniziare a 
+scassinare la serratura. Continua a tenere premuto il tasto USA finche la maniglia della porta smette di muoversi. Passa a 
+l'altro grimaldello e continua finche la porta non si apre.\n."
+LockpickBox: "Tieni premuto il tasto USA per posizionare il grimaldello sulla cassetta chiusa e iniziare a 
+scassinare la serratura. Continua a tenere premuto il tasto USA finche il chiavistello ruota di 90 gradi. Se senti solo 
+un breve clic, prova l'altro grimaldello.\n"
+SelectPickDoor: "Seleziona OGGETTO SUCCESSIVO o OGGETTO PRECEDENTE finche non e selezionato il grimaldello.\n
+Poi avvicinati alla porta.\n"
+SelectPickChest: "Seleziona OGGETTO SUCCESSIVO o OGGETTO PRECEDENTE finche non e selezionato il grimaldello.\n
+Poi avvicinati al forziere.\n"
+SelectPickBox: "Seleziona OGGETTO SUCCESSIVO o OGGETTO PRECEDENTE finche non e selezionato il grimaldello.\n
+Poi avvicinati alla cassetta chiusa.\n"
+JumpMantle: "Per arrampicarti, o \"issarti\", oltre un cornicione, mettiti di fronte a esso,\n
+avvicinati e tieni premuto il tasto SALTA.\n"
+UseLever: "USA la leva per azionare.\n"
+UseButton: "USA il pulsante per azionare.\n"

@@ -1,0 +1,157 @@
+1
+00:01:01,400 --> 00:01:02,100
+Garrett.
+
+2
+00:01:03,101 --> 00:01:04,501
+Viktoria.
+
+3
+00:01:05,402 --> 00:01:08,403
+Garrett, chi desideri combattere?
+
+4
+00:01:08,904 --> 00:01:13,004
+Me, o i miei Thistleaids, o il Sicomoro?
+
+5
+00:01:13,305 --> 00:01:14,505
+Solo TE.
+
+6
+00:01:15,506 --> 00:01:18,806
+Io non sono il nemico, Garrett, ne' lo e' alcuno qui.
+
+7
+00:01:19,007 --> 00:01:21,907
+Ecco il tuo nemico: i Mechanists.
+
+8
+00:01:22,408 --> 00:01:27,408
+Non e' un segreto che vogliano distruggere anche te, eroe quale sei...
+
+9
+00:01:28,109 --> 00:01:31,708
+In ogni caso, ti unirai a noi nella lotta contro di loro.
+
+10
+00:01:31,809 --> 00:01:35,109
+Unirmi a voi? Non proprio la mia prima scelta.
+
+11
+00:01:35,311 --> 00:01:36,111
+Scelta?!
+
+12
+00:01:36,513 --> 00:01:39,813
+La mia scelta e' vendicare la morte di un amico!
+
+13
+00:01:40,013 --> 00:01:45,113
+Tu non comprendi nulla di sofferenza e dovere, patetico sciocco uomo!
+
+14
+00:01:45,214 --> 00:01:47,314
+In un istante potrei...
+
+15
+00:01:48,415 --> 00:01:52,115
+Il passato e' passato. Ora abbiamo un nemico comune.
+
+16
+00:01:52,500 --> 00:01:54,616
+Persino tu devi vedere che e' cosi'.
+
+17
+00:01:55,017 --> 00:01:57,217
+Ultimamente mi pare di avere parecchi nemici.
+
+18
+00:01:57,418 --> 00:01:59,518
+Comunque, tu hai la situazione ben in pugno.
+
+19
+00:01:59,519 --> 00:02:04,019
+E' vero che sono potente, ma traggo la mia forza da questo luogo.
+
+20
+00:02:04,208 --> 00:02:09,408
+Dove sono i Mechanists, non sono cosi' certa della vittoria.
+
+21
+00:02:09,608 --> 00:02:10,408
+Peccato.
+
+22
+00:02:10,608 --> 00:02:14,408
+Non ho tempo per i tuoi pensieri vendicativi e le tue parole taglienti.
+
+23
+00:02:14,708 --> 00:02:19,408
+Ma sta' certo, Garrett: sei piu' forte con noi che senza di noi.
+
+24
+00:02:22,208 --> 00:02:25,208
+Osserviamo i Mechanists da tre lune.
+
+25
+00:02:25,908 --> 00:02:29,208
+Agenti Pagan sono appostati in ogni settore della citta'.
+
+26
+00:02:29,808 --> 00:02:31,608
+Il tuo rapporto, Larkspur?
+
+27
+00:02:32,208 --> 00:02:35,508
+Una perdita nella citta' vecchia, e altre due a Dayport.
+
+28
+00:02:37,308 --> 00:02:39,608
+A volte i nemici devono unire le forze
+
+29
+00:02:39,609 --> 00:02:41,584
+per sconfiggere un avversario piu' terribile.
+
+30
+00:02:41,908 --> 00:02:44,808
+Dunque dimmi, Garrett: si' o no.
+
+31
+00:02:45,308 --> 00:02:46,808
+Siamo d'accordo a lavorare insieme,
+
+32
+00:02:46,932 --> 00:02:49,407
+condividendo conoscenze e abilita' contro i Mechanists?
+
+33
+00:02:49,908 --> 00:02:52,808
+- Io...
+- Metto da parte la vendetta.
+
+34
+00:02:53,008 --> 00:02:55,408
+La terra custodisce per me la mia promessa.
+
+35
+00:02:59,408 --> 00:03:03,108
+Ora hai il mio giuramento: sia maledetta se infrango il patto,
+
+36
+00:03:03,609 --> 00:03:04,907
+ora la tua risposta.
+
+37
+00:03:05,008 --> 00:03:07,608
+Io... accetto... che... ugh!
+
+38
+00:03:09,908 --> 00:03:10,608
+Bene.
+
+39
+00:03:10,908 --> 00:03:13,308
+La Terra custodisce per te la tua promessa.
+

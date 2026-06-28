@@ -1,0 +1,46 @@
+Page_0:
+"Ehi, Jorek, perché non esci a prenderti una pausa?"
+page_0_color: "#CCCCFF"
+page_0_time: "6s"
+
+Page_1:
+"Nah, ne ho appena fatta una dieci minuti fa."
+page_1_color: "#CCFFCC"
+page_1_time: "6s"
+
+Page_2:
+"Be’, fanne un’altra!"
+page_2_color: "#CCCCFF"
+page_2_time: "6s"
+
+Page_3:
+"Non posso lasciare l’attrezzatura incustodita. Conosci le regole."
+page_3_color: "#CCFFCC"
+page_3_time: "6s"
+
+Page_4:
+"Posso sostituirti io."
+page_4_color: "#CCCCFF"
+page_4_time: "6s"
+
+Page_5:
+"Eheh, non voglio perdere il lavoro. L’ultima volta che hai avuto
+questo posto, il Sergente ti ha beccato a dormire sul pavimento!"
+page_5_color: "#CCFFCC"
+page_5_time: "6s"
+
+Page_6:
+"Andiamo, non è stata colpa mia!
+Una di quelle mine a gas mi è esplosa in faccia!"
+page_6_color: "#CCCCFF"
+page_6_time: "6s"
+
+Page_7:
+"Come vuoi, Ned, io non lascio questo posto."
+page_7_color: "#CCFFCC"
+page_7_time: "6s"
+
+Page_8:
+"Ma la signorina Jennings ha detto... cioè... ehm... ah, lascia perdere."
+page_8_color: "#CCCCFF"
+page_8_time: "6s"

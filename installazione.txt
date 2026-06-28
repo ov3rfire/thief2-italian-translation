@@ -1,0 +1,125 @@
+INSTALLAZIONE TRADUZIONE ITALIANA THIEF II
+
+Versione consigliata:
+con_apostrofi
+
+==================================================
+GIOCO ORIGINALE
+==================================================
+
+1. Aprire la cartella:
+
+   original-game\thief2_metal_age\italian\con_apostrofi\loose_files
+
+2. Copiare tutto il contenuto di loose_files dentro la cartella principale di Thief II.
+
+   Esempio:
+
+   C:\Giochi\Thief 2\Thief 2\
+
+3. Dopo la copia, dovresti avere percorsi simili a:
+
+   C:\Giochi\Thief 2\Thief 2\strings\italian\
+   C:\Giochi\Thief 2\Thief 2\books\italian\
+   C:\Giochi\Thief 2\Thief 2\intrface\italian\
+
+4. Aprire il file:
+
+   darkinst.cfg
+
+5. Impostare la lingua così:
+
+   language italian+english
+
+==================================================
+SOTTOTITOLI T2FIX / NEWDARK
+==================================================
+
+La traduzione include anche i sottotitoli presenti in T2Fix/NewDark, dove disponibili.
+
+Prima di installare la traduzione è consigliato fare una copia di backup della cartella:
+
+   MODS\Subtitles\SUBTITLES
+
+Esempio:
+
+   C:\Giochi\Thief 2\Thief 2\MODS\Subtitles\SUBTITLES
+
+La cartella può essere sovrascritta dai file tradotti.
+
+Per abilitare i sottotitoli, aprire il file:
+
+   cam_ext.cfg
+
+e assicurarsi che questa riga sia presente e non commentata:
+
+   enable_subtitles
+
+Corretto:
+
+   enable_subtitles
+
+Non corretto:
+
+   ;enable_subtitles
+
+==================================================
+FAN MISSION
+==================================================
+
+1. Aprire la cartella della Fan Mission desiderata.
+
+   Esempio Broken Triad:
+
+   fan-missions\fm_brokentriad1_1_0\italian\con_apostrofi\loose_files
+
+2. Copiare tutto il contenuto di loose_files dentro la cartella della Fan Mission installata.
+
+   Esempio:
+
+   C:\Giochi\Thief 2\Thief 2\FMs\BrokenTriad1_1_0\
+
+3. Aprire o creare il file:
+
+   cam_mod.ini
+
+4. Impostare la lingua così:
+
+   fm_language italian
+
+==================================================
+VERSIONI DISPONIBILI
+==================================================
+
+con_apostrofi
+Versione consigliata. Sostituisce gli accenti con apostrofi.
+
+senza_accenti
+Versione compatibile senza lettere accentate.
+
+con_accenti
+Versione con italiano corretto e lettere accentate.
+In alcune schermate del gioco gli accenti potrebbero non essere visualizzati correttamente.
+
+==================================================
+DISINSTALLAZIONE
+==================================================
+
+Per rimuovere la traduzione del gioco originale, eliminare dalla cartella principale del gioco:
+
+   strings\italian
+   books\italian
+   intrface\italian
+
+Se sono stati copiati i sottotitoli tradotti, ripristinare la copia di backup della cartella:
+
+   MODS\Subtitles\SUBTITLES
+
+Per le Fan Mission, rimuovere i file italiani copiati nella cartella della singola missione oppure ripristinare il backup della Fan Mission.
+
+==================================================
+COMPATIBILITA TESTATA
+==================================================
+
+- setup_thief_2_-_the_metal_age_1.26_nd_(21946)
+- T2Fix_1.27-2025-08-10_with_mods

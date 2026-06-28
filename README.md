@@ -34,6 +34,14 @@ T2Fix_1.27-2025-08-10_with_mods
 
 Non è garantita la compatibilità con installazioni vecchie, non aggiornate o prive di NewDark/T2Fix.
 
+## Download consigliato
+
+Per un’installazione più semplice, scaricare l’archivio ZIP dalla pagina **Releases**:
+
+`Thief2-Italian-Translation-v0.1.0.zip`
+
+Gli archivi automatici `Source code (zip)` e `Source code (tar.gz)` sono generati da GitHub e contengono l’intero repository, ma non sono il pacchetto consigliato per l’utente finale.
+
 ## Contenuto del repository
 
 Il repository contiene traduzioni italiane per:

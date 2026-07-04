@@ -273,7 +273,10 @@ Ho iniziato questa traduzione per uso personale, perché volevo godermi **Thief 
 Vedendo però che molte persone avevano difficoltà con le traduzioni disponibili, con l’installazione o con la compatibilità con NewDark/T2Fix, ho deciso di mettere questo lavoro a disposizione di tutti.
 
 In futuro pubblicherò anche traduzioni italiane di nuove Fan Mission.
+
 Se avete una Fan Mission in particolare che vorreste vedere tradotta, potete segnalarla: nei limiti del mio tempo libero proverò a occuparmene.
+
+Se avete sottotitoli o file testuali di Fan Mission già disponibili in altre lingue, potete farmeli avere: quando possibile proverò a tradurli in italiano e a pubblicarli nel repository.
 
 Se trovate errori, frasi poco naturali, testi non tradotti o problemi durante il gioco, potete aprire una segnalazione o contattarmi. Cercherò di correggere tutto il possibile compatibilmente con il tempo a disposizione.
 

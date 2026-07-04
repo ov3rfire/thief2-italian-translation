@@ -210,47 +210,42 @@ Esempio non corretto:
 
 ## Installazione - Fan Mission
 
+Prima di installare la traduzione di una Fan Mission, installare sempre anche la traduzione del gioco originale inclusa in questo pacchetto.
+
+La traduzione del gioco originale contiene file base condivisi che possono essere usati anche dalle Fan Mission, come stringhe comuni, nomi oggetti, interfaccia e descrizioni standard. Installare solo la traduzione della Fan Mission, senza quella del gioco originale, potrebbe causare testi mancanti, misti o non tradotti.
+
+Ordine consigliato:
+
+1. Installare la traduzione del gioco originale.
+2. Configurare il file `darkinst.cfg` con `language italian+english`.
+3. Installare la traduzione della Fan Mission desiderata.
+4. Configurare il file `cam_mod.ini` della Fan Mission con `fm_language italian`.
+
 Per installare la traduzione di una Fan Mission, aprire la cartella della Fan Mission desiderata nel repository.
 
 Esempio Broken Triad:
 
-```text
-fan-missions/fm_brokentriad1_1_0/italian/con_apostrofi/loose_files/
-```
+`fan-missions/fm_brokentriad1_1_0/italian/con_apostrofi/loose_files/`
 
 Esempio Ominous Bequest Gold:
 
-```text
-fan-missions/fm_ominousbequestgold/italian/con_apostrofi/loose_files/
-```
+`fan-missions/fm_ominousbequestgold/italian/con_apostrofi/loose_files/`
 
 Copiare tutto il contenuto di `loose_files` dentro la cartella della Fan Mission installata.
 
-Esempio:
+Esempio Broken Triad:
 
-```text
-C:\Giochi\Thief 2\Thief 2\FMs\BrokenTriad1_1_0\
-```
+`C:\Giochi\Thief 2\Thief 2\FMs\BrokenTriad1_1_0\`
 
-oppure:
+Esempio Ominous Bequest Gold:
 
-```text
-C:\Giochi\Thief 2\Thief 2\FMs\OminousBequestGold\
-```
+`C:\Giochi\Thief 2\Thief 2\FMs\OminousBequestGold\`
 
 Il nome effettivo della cartella può variare in base a come la Fan Mission è stata installata o gestita dal proprio loader.
 
-Per le Fan Mission, verificare anche il file:
+Dopo la copia, aprire o creare il file `cam_mod.ini` e impostare `fm_language italian`.
 
-```text
-cam_mod.ini
-```
-
-e impostare:
-
-```text
-fm_language italian
-```
+Se il file `cam_mod.ini` contiene già una riga `fm_language`, modificarla in `italian`.
 
 ## Disinstallazione
 

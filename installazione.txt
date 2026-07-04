@@ -67,17 +67,44 @@ Non corretto:
 FAN MISSION
 ==================================================
 
+IMPORTANTE:
+prima di installare la traduzione di una Fan Mission, installare sempre anche la traduzione del gioco originale inclusa in questo pacchetto.
+
+La traduzione del gioco originale contiene file base condivisi che possono essere usati anche dalle Fan Mission, come stringhe comuni, nomi oggetti, interfaccia e descrizioni standard.
+
+Ordine consigliato:
+
+1. Installare la traduzione del gioco originale.
+2. Configurare darkinst.cfg con:
+
+   language italian+english
+
+3. Installare la traduzione della Fan Mission desiderata.
+4. Configurare cam_mod.ini della Fan Mission con:
+
+   fm_language italian
+
+Per installare la traduzione di una Fan Mission:
+
 1. Aprire la cartella della Fan Mission desiderata.
 
    Esempio Broken Triad:
 
    fan-missions\fm_brokentriad1_1_0\italian\con_apostrofi\loose_files
 
+   Esempio Ominous Bequest Gold:
+
+   fan-missions\fm_ominousbequestgold\italian\con_apostrofi\loose_files
+
 2. Copiare tutto il contenuto di loose_files dentro la cartella della Fan Mission installata.
 
-   Esempio:
+   Esempio Broken Triad:
 
    C:\Giochi\Thief 2\Thief 2\FMs\BrokenTriad1_1_0\
+
+   Esempio Ominous Bequest Gold:
+
+   C:\Giochi\Thief 2\Thief 2\FMs\OminousBequestGold\
 
 3. Aprire o creare il file:
 

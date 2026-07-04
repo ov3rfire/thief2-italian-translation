@@ -1,9 +1,0 @@
-Page_0:
-"You've just disabled Ned and made the game unwinnable."
-page_0_color: "#FF2020"
-page_0_time: "5s"
-
-Page_1:
-"For you, unfortunately, this means..."
-page_1_color: "#FF2020"
-page_1_time: "4s"

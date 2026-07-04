@@ -18,7 +18,7 @@ La traduzione comprende, dove disponibili:
 * messaggi e testi di gioco;
 * sottotitoli inclusi in T2Fix/NewDark;
 * file testuali traducibili presenti nei contenuti del gioco originale;
-* supporto iniziale alle Fan Mission.
+* supporto alle Fan Mission.
 
 La traduzione è distribuita come **file sciolti** compatibili con NewDark.
 Non vengono modificati i file `.crf` originali del gioco.
@@ -38,7 +38,15 @@ Non è garantita la compatibilità con installazioni vecchie, non aggiornate o p
 
 Per un’installazione più semplice, scaricare l’archivio ZIP dalla pagina **Releases**:
 
-`Thief2-Italian-Translation-v0.1.0.zip`
+```text
+Thief2-Italian-Translation-Pack-v0.2.0.zip
+```
+
+Questo pacchetto contiene:
+
+* traduzione del gioco originale;
+* traduzioni Fan Mission attualmente disponibili;
+* documentazione di installazione.
 
 Gli archivi automatici `Source code (zip)` e `Source code (tar.gz)` sono generati da GitHub e contengono l’intero repository, ma non sono il pacchetto consigliato per l’utente finale.
 
@@ -57,6 +65,13 @@ fan-missions/
 ```
 
 Traduzioni italiane di Fan Mission compatibili con Thief II/NewDark.
+
+Fan Mission attualmente presenti:
+
+```text
+fan-missions/fm_brokentriad1_1_0/
+fan-missions/fm_ominousbequestgold/
+```
 
 ## Versioni disponibili
 
@@ -197,10 +212,16 @@ Esempio non corretto:
 
 Per installare la traduzione di una Fan Mission, aprire la cartella della Fan Mission desiderata nel repository.
 
-Esempio:
+Esempio Broken Triad:
 
 ```text
 fan-missions/fm_brokentriad1_1_0/italian/con_apostrofi/loose_files/
+```
+
+Esempio Ominous Bequest Gold:
+
+```text
+fan-missions/fm_ominousbequestgold/italian/con_apostrofi/loose_files/
 ```
 
 Copiare tutto il contenuto di `loose_files` dentro la cartella della Fan Mission installata.
@@ -210,6 +231,14 @@ Esempio:
 ```text
 C:\Giochi\Thief 2\Thief 2\FMs\BrokenTriad1_1_0\
 ```
+
+oppure:
+
+```text
+C:\Giochi\Thief 2\Thief 2\FMs\OminousBequestGold\
+```
+
+Il nome effettivo della cartella può variare in base a come la Fan Mission è stata installata o gestita dal proprio loader.
 
 Per le Fan Mission, verificare anche il file:
 
@@ -279,7 +308,6 @@ Se avete una Fan Mission in particolare che vorreste vedere tradotta, potete seg
 Se avete sottotitoli o file testuali di Fan Mission già disponibili in altre lingue, potete farmeli avere: quando possibile proverò a tradurli in italiano e a pubblicarli nel repository.
 
 Se trovate errori, frasi poco naturali, testi non tradotti o problemi durante il gioco, potete aprire una segnalazione o contattarmi. Cercherò di correggere tutto il possibile compatibilmente con il tempo a disposizione.
-
 
 ## Disclaimer
 

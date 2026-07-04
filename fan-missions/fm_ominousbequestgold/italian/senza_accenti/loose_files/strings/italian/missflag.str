@@ -1,0 +1,31 @@
+// Valid mission flags
+//
+// skip         This mission doesn't exist; it should be skipped.
+// no_briefing  Skip the briefing movie
+// no_loadout   Skip the loadout
+// cutscene     Play a cutscene immediately afterward
+// end          End the game when this mission is completed
+// 
+
+miss_1: "salta"
+miss_2: "salta"
+miss_3: "salta"
+miss_4: "salta"
+miss_5: "salta"
+miss_6: "salta"
+miss_7: "salta"
+miss_8: "salta"
+miss_9: "salta"
+miss_10: "salta"
+miss_11: "salta"
+miss_12: "salta"
+miss_13: "salta"
+miss_14: "salta"
+miss_15: "salta"
+miss_16: "salta"
+miss_17: "salta"
+miss_18: "salta"
+miss_19: "salta"
+miss_20: "no_loadout,fine" 
+miss_21: "salta"                                                   
+

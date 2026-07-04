@@ -1,0 +1,46 @@
+Page_0:
+"Hey, Jorek, why don't you go outside and take a break?"
+page_0_color: "#CCCCFF"
+page_0_time: "6s"
+
+Page_1:
+"Nah, I just had one ten minutes ago."
+page_1_color: "#CCFFCC"
+page_1_time: "6s"
+
+Page_2:
+"Well, take another!"
+page_2_color: "#CCCCFF"
+page_2_time: "6s"
+
+Page_3:
+"I can't leave the equipment unguarded. You know the rules."
+page_3_color: "#CCFFCC"
+page_3_time: "6s"
+
+Page_4:
+"I can stand in for you."
+page_4_color: "#CCCCFF"
+page_4_time: "6s"
+
+Page_5:
+"Heh, I don't want to lose my job. Last time you had
+this post, the Sergeant caught you sleeping on the floor!"
+page_5_color: "#CCFFCC"
+page_5_time: "6s"
+
+Page_6:
+"C'mon that wasn't my fault!
+One of those gas mines blew up in my face!"
+page_6_color: "#CCCCFF"
+page_6_time: "6s"
+
+Page_7:
+"Whatever, Ned, I'm not leaving this post."
+page_7_color: "#CCFFCC"
+page_7_time: "6s"
+
+Page_8:
+"But Ms. Jennings said- I mean... uh... ah, never mind."
+page_8_color: "#CCCCFF"
+page_8_time: "6s"

@@ -1,0 +1,49 @@
+Page_0:
+"Who is calling me?"
+page_0_color: "#DDBAAB"
+page_0_time: "4s"
+
+Page_1:
+"Ah, I recognize thee!
+Thou art the one who released me from my frozen prison!"
+page_1_color: "#DDBAAB"
+page_1_time: "10s"
+
+Page_2:
+"Alas, the Builder's Forge still remains closed to me."
+page_2_color: "#DDBAAB"
+page_2_time: "6s"
+
+Page_3:
+"I followed the light, but it did not lead me to salvation."
+page_3_color: "#DDBAAB"
+page_3_time: "7s"
+
+Page_4:
+"Instead I found myself in this forbidden place,
+amidst a sea of restless souls."
+page_4_color: "#DDBAAB"
+page_4_time: "9s"
+
+Page_5:
+"They are circling this island,
+drawn to a voiceless scream like moths to a flame."
+page_5_color: "#DDBAAB"
+page_5_time: "9s"
+
+Page_6:
+"Only the Builder gives me strength to resist
+their song of lamentation."
+page_6_color: "#DDBAAB"
+page_6_time: "7s"
+
+Page_7:
+"Oh, but enough about me. What is it thou dost desire?"
+page_7_color: "#DDBAAB"
+page_7_time: "7s"
+
+Page_8:
+"Ah, I see - thy path is blocked!
+Let me help thee, friend!"
+page_8_color: "#DDBAAB"
+page_8_time: "9s"

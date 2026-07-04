@@ -1,0 +1,26 @@
+fiction_0: "Meet up with Keeper Aleph on the other side of the portal. With a bit of luck he'll know what needs to be done."
+text_0: "Meet up with Keeper Aleph."
+
+fiction_1: ""
+text_1: "Enter the Necropolis."
+
+fiction_2: ""
+text_2: "Find and use all the Sanctuary glyphs on the island."
+
+fiction_3: ""
+text_3: "Gain access to the Inner Chamber in the Necropolis by following the Last Path southwards."
+
+fiction_4:  "It doesn't seem likely that Nyarsal will just go away and leave you alone. Put an end to his existence."
+text_4: "Defeat Nyarsal."
+
+fiction_5: "If you manage to survive this whole business, find a way back home."
+text_5: "Find a way back home."
+
+fiction_6: ""
+text_6: "(OPTIONAL) A treasury, eh? Finding it sounds like a challenge, but passing up this opportunity would be a real shame."
+
+fiction_7: "(BONUS) You've found all the loot in the mission!"
+text_7: "(BONUS) You've found all the loot in the mission!"
+
+fiction_8: "(D'OH!) YOU CHEATED AND LOOKED AT THE OBJECTIVES IN GOALS.STR!"
+text_8: "(D'OH!) A WINNER IS YOU!"

@@ -1,0 +1,8 @@
+difficulty: "Dificultad:"
+skip_training: "Legado Ominoso" 
+options: "Opciones"
+cancel: "Cancelar" 
+
+diff_0:  "Normal"
+diff_1:  "Dificil"
+diff_2:  "Experto"

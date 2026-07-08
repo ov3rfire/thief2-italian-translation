@@ -1,0 +1,133 @@
+use_blackjack: "Quest'arma stordira' un bersaglio ignaro con 
+una lieve commozione cerebrale e poca attenzione."
+
+use_breath: "Questa pozione ti fornira' qualche secondo d'aria in piu' 
+quando nuoti sott'acqua. Costo:125"        
+
+use_broadhead: "Questa e' una freccia affilata. Costo:25"
+
+use_fire: "Questa freccia esplode all'impatto, danneggiando il bersaglio e dando 
+fuoco a materiali infiammabili come le torce. Non descrive archi in volo, quindi mira con 
+la parte superiore del mirino dell'arco. Costo:225"
+
+use_flash: "Questa granata produce un intenso lampo di luce, accecando 
+i nemici che lo vedono. Costo:200" 
+
+use_gasarrow: "Questa freccia esplode all'impatto in una nube di gas stordente, facendo 
+addormentare la maggior parte delle creature viventi nella sua area. Non descrive archi in volo, 
+quindi mira con la parte superiore del mirino dell'arco. Costo:500"
+
+use_gasmine: "Questa granata ha un sensore di prossimita' e produrra' una 
+nube di gas stordente quando qualcuno si avvicina. 
+Una volta armata, puoi 
+disarmarla solo con i tuoi grimaldelli.  Costo 500:"
+
+use_healing: "Questa pozione agisce come un balsamo curativo, ripristinando la salute perduta. Costo:250"
+
+use_holywater: ""
+
+use_slowfall: "Questa pozione previene i danni da caduta al suolo se usata prima o durante la caduta.  Costo: 150"
+
+use_invisibility: "Questa pozione ti rende invisibile. Bada che dura solo 
+pochi secondi e non ti rende inudibile.  Costo: 600"
+
+use_lockpick: "Questi strumenti ti permetteranno di aprire la maggior parte delle serrature, con un po' di lavoro."
+
+use_pricey_lockpick: "Questi strumenti ti permetteranno di aprire la maggior parte delle serrature, con un po' di lavoro. Costo: 4000 la coppia."
+
+use_mine: "Questa granata ha un sensore di prossimita' e produrra' una 
+esplosione infuocata quando qualcuno si avvicina. 
+Una volta armata, puoi 
+disarmarla solo con i tuoi grimaldelli.  Costo 350:"
+
+use_moss: "Questa freccia crea un tappeto di muschio che consente un passaggio \ silenzioso su superfici rumorose. Costo:150"
+
+use_noisemaker: "Il meccanismo in questa freccia produce uno strano rumore all'
+impatto, utile come distrazione. Costo:250"
+
+use_rope: "Questa freccia si conficca nelle superfici di legno e dispiega una corda sospesa. 
+Costo:200"
+
+use_vine: "Questa freccia puo' attecchire sulle grate 
+oltre che su qualunque superficie di legno. Costo: 200."
+
+use_sword: "Oltre a fare buchi nel nemico, una spada puo' bloccare l'
+attacco di un avversario."
+
+use_water: "La freccia d'acqua non infligge danni, ma spegne 
+torce e altri oggetti in fiamme, e ripulisce le macchie di sangue. Costo:75"
+
+use_tip: "Qualcuno vuole darti un consiglio... a pagamento. Costo: 25"
+
+use_tip50: "Qualcuno vuole darti un consiglio... a pagamento. Costo: 50"
+
+use_tip100: "Qualcuno vuole darti un consiglio... a pagamento. Costo: 100"
+
+use_hammertip: "Uno degli Hammerite e' disposto a offrirti alcune 
+informazioni che ha trovato, ma insiste perche' tu le paghi: qualcosa 
+sul non insozzare la propria anima aiutando i ladri.  Costo:100"
+
+use_speed: "Questa pozione aumentera' notevolmente la tua velocita' di corsa e 
+di camminata, per breve tempo.  Costo: 300."
+
+use_equiptip: "Un mercante locale potrebbe non avere gli oggetti che ti servono, 
+ma sa dove puoi ottenerli.  Costo: 200"
+
+use_diamondtip: "La citta' offre molte opportunita' a un 
+ladro addestrato, se sa dove guardare.  Costo: 100"
+
+use_scripture: "Questo e' il primo passo della Nuova Scrittura 
+del Mastro Builder, scritta da Karras e consegnatati da Viktoria."
+
+use_flare: "Ogni bengala illuminera' i dintorni per un 
+breve periodo di tempo.  Costo: 25"
+
+use_camera: "Si collega all'occhio meccanico di Garrett tramite vibrazioni 
+eteriche quando viene lasciato cadere o lanciato, permettendogli di vedere dalla sua 
+posizione. Il tasto USA abbandona questa visuale. Costo: 300"
+
+use_birdcall: "Questo dispositivo di segnalazione emettera' un suono distintivo ma 
+non sospetto quando usato, permettendoti di fare un segnale a Basso."
+
+use_frogegg: "Contrabbandati in citta' a caro prezzo dagli agenti di Viktoria, 
+questi oggetti scoppieranno mollicciamente quando lanciati e produrranno una bestia-rana, 
+che si alleera' con te.  Costo: 200"
+
+use_m12keys: "Hai preso alcune delle chiavi della villa quando eri qui 
+prima.  Dovrebbero tornare utili."
+
+use_m12letter: "Una lettera di Karras a Gervaisius. Lettura interessante."
+
+use_FlashMine: "Questa granata ha un sensore di prossimita' e produrra' un 
+lampo accecante quando qualcuno si avvicina. 
+Una volta armata, puoi 
+disarmarla solo con i tuoi grimaldelli.  Costo: 350"
+
+use_SDBoxKey: "La chiave della cassetta di sicurezza Mechanist di cui hai fatto una copia."
+
+
+use_icecat: "Un catalizzatore che convertira' le tue frecce d'acqua nelle loro controparti Pagan."
+
+use_firecat: "Un catalizzatore che convertira' le tue frecce d'acqua e di fuoco nelle loro controparti Pagan."
+
+use_earthcat: "Un catalizzatore che convertira' le tue frecce d'acqua, di fuoco e di terra nelle loro controparti Pagan."
+
+use_aircat: "Un catalizzatore che convertira' le tue frecce d'acqua, di fuoco, di terra e a gas nelle loro controparti Pagan."
+
+use_hoil: "Un rimedio curativo che guarisce le ferite.  Costo: 250"
+
+use_concealment: "Un'antica pozione che silenziera' i tuoi passi e ti aiutera' a confonderti meglio con le ombre per breve tempo.  Costo: 500"
+
+use_spideregg: "Queste uova faranno schiudere temuti ragni del Maw: anche se non sopravvivono a lungo fuori dal Maw, queste bestie terrificanti attaccheranno qualunque cosa sia alla loro portata finche' restano vive.  Costo: 250"
+
+use_emp: "Una bomba meccanica che mandera' in corto qualunque dispositivo esposto alimentato a vapore, incluse luci, telecamere di sicurezza e robot.  Costo: 200"
+
+use_locust: "Strappate dalle viscere della terra, queste bombe Pagan genereranno uno sciame di insetti letali che divorera' qualunque cadavere umano nelle vicinanze, a prescindere dalle dimensioni.  Costo: 250"
+
+use_hairpin: "Un grimaldello improvvisato."
+
+use_malaknote: "Una nota di Malak."
+
+use_cavnote: "Una nota indirizzata a Cavador che incastra i Liberi Mercanti per il furto dell'Orbe."
+
+use_basorb: "L'Orbe di San Basmus, rubato dal Mausoleo. Mettilo dentro il Goodie Bag per incastrare i Liberi Mercanti."
